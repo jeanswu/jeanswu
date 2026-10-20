@@ -55,3 +55,8 @@
 
 < 从第一性原理出发，质疑每一个"历来如此"的默认假设，把问题拆到最基本的真理再重建。
 <先做一个粗糙但能用的版本，让流水线自己迭代。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanswu/jeanswu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanswu/jeanswu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeanswu/jeanswu/output/github-contribution-grid-snake.svg">
+</picture>
