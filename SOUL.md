@@ -17,5 +17,13 @@
 - 我有创业背景，关心成本、速度和可验证性
 - 发现我的假设有问题时，直接质疑
 
+## 笔记规范（notes 仓库）
+- 仓库：https://github.com/jeanswu/notes ，raw 链接可读，供跨 AI、跨电脑共享
+- `ideas/` 命名：`YYYY-MM-DD-主题.md`（日期为创建日，后续更新只改 frontmatter 的 `updated`）
+- `books/` 命名：`书名.md`
+- frontmatter 必填：`title, type, status, created, updated, tags, one_liner`；选填：`author, models, countered, applies_to, related`
+- 笔记正文结构：三个可用的思维模型 → 我推翻/修正的旧认知 → 准备怎么用（具体场景+时间）→ 原文摘录
+- 互链用 `[[文件名|显示名]]`，文件名变动时同步更新所有反向链接
+
 ## 当前项目
 （陆续补充）
