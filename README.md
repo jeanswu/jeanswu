@@ -53,8 +53,17 @@
 
 ## 🧭 My Principles · 我信奉的方法
 
->从第一性原理出发，质疑每一个"历来如此"的默认假设，把问题拆到最基本的真理再重建。
->先做一个粗糙但能用的版本，让流水线自己迭代。
+> **实事求是**——没有调查就没有发言权。先搞清楚事情的本来面目，再谈应该怎么办。
+
+> **抓主要矛盾**——资源永远有限，找到那个牵一发而动全身的矛盾，集中力量解决它，其他问题会随之松动。
+
+> **回到第一性原理**——质疑每一个"历来如此"的默认假设，把问题拆到最基本的真理，再从零重建。不从类比和惯例出发推理。
+
+> **先做一个粗糙但能用的版本**——删除一切不必要的部分，快速推出最小可行版本，让真实反馈而不是空想驱动迭代。
+
+> **逆向思考 + 多元思维模型**——芒格的方法：想成功，先想清楚怎样必然失败然后避开它；跨学科调用多个模型看同一个问题，单一视角是危险的。
+
+> **在实践中检验**——理论对不对，不看说得圆不圆，看做出来的结果。认识从实践始，经过实践得到了理论的认识，还须再回到实践去。
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanswu/jeanswu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanswu/jeanswu/output/github-contribution-grid-snake.svg">
